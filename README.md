@@ -1,50 +1,55 @@
-# Hi, I'm [Maaz] 👋
+# Hello, I'm Maaz 👋
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
+Welcome to my GitHub profile! I'm a passionate **Data Science Intern** with a strong interest in **data analytics, machine learning**, and **data visualization**. I’m constantly learning new skills and tools to stay on top of the latest trends in the data science field.
 
-I'm a passionate **Data Science Intern** with good knowledge in **C, C++, Python, SQL, Machine Learning, Generative AI, Power BI, MS Excel, and Data Structures & Algorithms (DSA)**. I love solving complex problems, building predictive models, and creating data-driven solutions.
+## 🚀 About Me
+
+- 🔭 I’m currently working as a **Data Science Intern** at Analytixlabs where I’m gaining experience in analyzing complex datasets, building machine learning models, and automating processes.
+- 🌱 I’m learning **Deep Learning**, **Natural Language Processing (NLP)**, and **Time Series Analysis**.
+- 👯 I’m looking to collaborate on data science projects, especially in areas like **predictive modeling**, **data cleaning**, and **statistical analysis**.
+- 💬 Ask me about **Python**, **Pandas**, **Scikit-learn**, **TensorFlow**, and **SQL**.
+- 📫 How to reach me: mohammedmaaz2452@gmail.com
+
+## 🔧 Skills
+
+- **Programming Languages**: Python, C, C++, SQL
+- **Tools & Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, Jupyter Notebooks
+- **Data Visualization**: Power BI, Tableau
+- **Machine Learning**: Supervised Learning, Unsupervised Learning, Model Evaluation, Feature Engineering
+- **Big Data**: Hadoop, Spark (basic knowledge)
+- **Databases**: MySQL, PostgreSQL
+- **Version Control**: Git, GitHub
+
+## 📈 My Stats
+
+![Maaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🔗 Links
+
+- [LinkedIn Profile](www.linkedin.com/in/mohammedmaaz2452)
+
+## 📚 Currently Learning
+
+- 📊 **Deep Learning** with TensorFlow and Keras
+- 🧠 **Natural Language Processing (NLP)**
+- 📅 **Time Series Analysis**
+
+## 💼 Current Internship
+
+I am currently interning as a **Data Science Intern** at [Analytixlabs]. During my internship, I am working on:
+
+- Analyzing and processing large datasets
+- Building and evaluating machine learning models
+- Automating data pipelines
+- Creating reports and visualizations for data-driven decision-making
+
+## 🎯 Goal for 2025
+
+- Contribute to open-source data science projects
+- Complete several Kaggle competitions
+- Continue enhancing my machine learning and data engineering skills
 
 ---
 
-## 🛠️ Skills
+Feel free to explore my repositories to see the projects I've worked on! I'm always open to feedback and collaboration.
 
-### Programming Languages
-![C](data:image/png;base64,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)
-![C++](data:image/png;base64,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)
-![Python](https://www.google.com/imgres?q=python%20programming%20language%20gif&imgurl=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2FKAq5w47R9rmTuvWOWa%2Fgiphy.gif%3Fcid%3D6c09b952nrfatjwnrkolbq8emx6knkksgg3ch3ki0f3lr8t9%26ep%3Dv1_gifs_search%26rid%3Dgiphy.gif%26ct%3Dg&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpython3&docid=Ul6injWEATTFcM&tbnid=Oa-loSVpdmTOAM&vet=12ahUKEwjs1NiHp6-LAxV_h68BHW4lGD4QM3oECBYQAA..i&w=480&h=476&hcb=2&ved=2ahUKEwjs1NiHp6-LAxV_h68BHW4lGD4QM3oECBYQAA)
-
-### Machine Learning
-![Machine Learning](https://www.google.com/imgres?q=machine%20learning%20gif&imgurl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FiPj5oRtJzQGxwzuCKV%2Fgiphy.gif%3Fcid%3D6c09b952wrs3bcmq409hqocfhcfooi12c8yf6ri7i19yjsrx%26ep%3Dv1_internal_gif_by_id%26rid%3Dgiphy.gif%26ct%3Dg&imgrefurl=https%3A%2F%2Fgiphy.com%2Fgifs%2Fgigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV&docid=Z82vMdX050f7TM&tbnid=W6vWVmq82fQ_tM&vet=12ahUKEwi2lIDDpa-LAxXIiq8BHbRFE_AQM3oECBgQAA..i&w=480&h=270&hcb=2&ved=2ahUKEwi2lIDDpa-LAxXIiq8BHbRFE_AQM3oECBgQAA)
-![Generative AI]</p>(https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmx6iqv9qj1eh217nckv.gif)
-![SQL](https://www.google.com/imgres?q=sql%20server%20gif&imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fsql-file-document-animated-icon-download-in-lottie-json-gif-static-svg-formats--coding-coin-format-type-pack-logos-icons-7650402.gif&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fsql&docid=q4W-OY6kD4iVkM&tbnid=BqgH8FCnmJXIaM&vet=12ahUKEwjKj8XjpK-LAxXodfUHHelcEO4QM3oECGIQAA..i&w=220&h=271&hcb=2&ved=2ahUKEwjKj8XjpK-LAxXodfUHHelcEO4QM3oECGIQAA)
-
-### Data Visualization
-![Power BI](https://www.google.com/imgres?q=power%20bi%20gif%20animation&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5610AQFO-qmIjhp2ig%2Fimage-shrink_1280%2Fimage-shrink_1280%2F0%2F1699024803595%3Fe%3D2147483647%26v%3Dbeta%26t%3D3jRpdgvYBsCWq3Ui9BnKWFPI09wZotZBEJu6lS2EqUM&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fileonjose_free-power-bi-resources-1-power-activity-7126226589800927233-NRO3&docid=9b9WZ6TsW_xdyM&tbnid=Ex34Yj1dNYviqM&vet=12ahUKEwjOuNXmp6-LAxXYUPUHHb_BL4kQM3oECCoQAA..i&w=600&h=450&hcb=2&ved=2ahUKEwjOuNXmp6-LAxXYUPUHHb_BL4kQM3oECCoQAA)
-![MS Excel](https://www.google.com/imgres?q=MS%20excel%20gif%20animation&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F489311%2Fscreenshots%2F6691380%2Fexcel-icons-animation.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F6691380-Excel-Icon-Animation&docid=X4L9kIKuHIE9PM&tbnid=Apc_g_G5EYncJM&vet=12ahUKEwjn4u6LqK-LAxVgyDgGHcHjM2UQM3oECBsQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjn4u6LqK-LAxVgyDgGHcHjM2UQM3oECBsQA)
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 📫 Contact Me
-
-- **Email**: [mohammedmaaz2452@gmail.com](mailto:mohammedmaaz2452@gmail.com)
-- **LinkedIn**: https://www.linkedin.com/in/mohammedmaaz2452/
-
----
-
-## 🌟 Fun Fact
-
-I love exploring new technologies and contributing to open-source projects. When I'm not coding, you can find me on Instagram 
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-  </p>
