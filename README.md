@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Intern** with a st
 
 ## 🔗 Links
 
-- [LinkedIn Profile](www.linkedin.com/in/mohammedmaaz2452)
+https://www.linkedin.com/in/mohammedmaaz2452/
 
 ## 📚 Currently Learning
 
