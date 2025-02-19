@@ -1,4 +1,6 @@
-# Hi there, I'm Maaz 👋
+<p align="center">
+  <strong style="font-size: 38 px ;">Hello 👋, I'm Maaz </strong>
+</p>
 
 ## 🚀 About Me
 I'm a passionate Data Science intern with a common interest in machine learning, data analysis, and data visualization. I enjoy turning complex data into actionable insights and building models that solve real-world problems. I'm constantly learning and exploring new technologies to enhance my skills.
